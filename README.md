@@ -1,3 +1,3 @@
 # IP-2024-2
-Códigos da disciplina de Introdução à Programação<br>
-Feita em C
+Códigos feitos durante a disciplina de Introdução à Programação da Universidade Federal de Goiás<br>
+Linguagem: C
